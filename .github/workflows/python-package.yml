@@ -2,7 +2,7 @@ name: USOM Seperator
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Runs every 3 hours
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
   push:
     branches:
       - main
