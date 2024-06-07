@@ -12,7 +12,7 @@ def fetch_url_content(url):
 
 # Function to separate IP addresses and domain names
 def separate_ip_and_domain(lines):
-    ip_pattern = re.compile(r'(\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b)')
+    ip_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}$')
     ip_addresses = []
     domains = []
 
@@ -20,7 +20,7 @@ def separate_ip_and_domain(lines):
         line = line.strip()
         if ip_pattern.match(line):
             ip_addresses.append(line)
-        else:
+        elif re.match(r'^(([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,})$', line):
             domains.append(line)
 
     return ip_addresses, domains
@@ -40,8 +40,8 @@ def main():
     content = fetch_url_content(url)
     lines = content.splitlines()
     
-    # Get the latest 500 lines
-    latest_lines = lines[-500:]
+    # Get the latest 100 lines
+    latest_lines = lines[-100:]
     
     # Separate IPs and Domains
     ip_addresses, domains = separate_ip_and_domain(latest_lines)
