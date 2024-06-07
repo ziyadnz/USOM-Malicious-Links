@@ -13,8 +13,8 @@ USOM'un zararlı bağlantılar listesi çok büyümüştür ve şu anda 320,109 
 Hem güvenlik ürünlerini yormamak hem de güvenliği sağlamak amacıyla, son eklenen zararlı bağlantıları IP ve domain olarak ayıran ve ürünlere dinamik olarak eklenebilecek şekilde .txt dosyalarında tutan bir repo oluşturulmuştur. Bu liste, her 30 dakikada bir kendini yenileyecek şekilde ayarlanmıştır.
 
 ### Kullanımı
-
-[ipv4.txt](https://github.com/ziyadnz/USOM-Malicious-Links/blob/main/ipv4.txt) (https://github.com/ziyadnz/USOM-Malicious-Links/blob/main/ipv4.txt) ve [url.txt](https://github.com/ziyadnz/USOM-Malicious-Links/blob/main/url.txt) (https://github.com/ziyadnz/USOM-Malicious-Links/blob/main/url.txt) olmak üzere iki linki güvenlik ürünlerinizde dinamik liste olarak tanımlayın. Bunlara kendi ortamınızı göz önüne alarak yenilemesi için bir zamanlayıcı belirleyin. Bu listeleri SIEM'inizde takip ederek de olası açıklıkları (güvenlik ürünlerinden geçen spam maili vb) tespit etmekte kullanabilirsiniz.
+https://github.com/ziyadnz/USOM-Malicious-Links linkindeki domain ve ip listelerini:
+* [ipv4.txt](https://raw.githubusercontent.com/ziyadnz/USOM-Malicious-Links/main/ipv4.txt?token=GHSAT0AAAAAACRHHTTTCJAAZX5O6WAJDOICZTDR2XQ)  ve [domain.txt](https://raw.githubusercontent.com/ziyadnz/USOM-Malicious-Links/main/domain.txt?token=GHSAT0AAAAAACRHHTTSVTW7BYLWKFKU3Q7CZTDR6TA) olmak üzere iki linki güvenlik ürünlerinizde dinamik liste olarak tanımlayın. Bunlara kendi ortamınızı göz önüne alarak yenilemesi için bir zamanlayıcı belirleyin. Bu listeleri SIEM üzerinde takip ederek olası açıklıkları (güvenlik ürünlerinden geçen spam maili vb) tespit etmekte kullanabilirsiniz.
 
 ### Katkıda Bulunma
 
