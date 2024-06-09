@@ -59,8 +59,8 @@ netfaturaservis.com
 eborcodeme.com
 isbankasiborcsorgulama.com
 ortakbanka.com
-bkmxexpress.com
 osym.online
+bkmxexpress.com
 yonetmelisin.com
 ptt-takip.com
 olmeha.com
@@ -683,10 +683,10 @@ midin.ru
 melotchi.ru
 qov.web.tr
 yattim.ru
-faturacik.org
-ladia-mitino.ru
 rent-sound.ru
+ladia-mitino.ru
 kvantureal.ru
+faturacik.org
 turkcell13.com
 darknet.gen.tr
 turkcell84.org
