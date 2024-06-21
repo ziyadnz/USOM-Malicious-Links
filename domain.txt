@@ -59,9 +59,9 @@ updatechecker.name
 ptthgsonline.com
 bankakredikartlariborcsorgulama.com
 ziraatbankborcodeme.com
-yonetmelisin.com
-osym.online
 bkmxexpress.com
+osym.online
+yonetmelisin.com
 ptt-takip.com
 v-vodafonefaturaode.com
 sslguvenliksistemleri.net
@@ -546,8 +546,8 @@ ingbankasi-internetsube.com
 turish-cargo.com
 servisfatura.com
 onlinesorgulamaislemleri.com
-sentry-title.com
 servisfatura.org
+sentry-title.com
 kartsorgulaislemleri.com
 hgsyukleme.in
 onlinekartsorgulamamerkezi.com
@@ -619,8 +619,8 @@ e-kredikartiborcuogrenme.org
 bkmkartborcusorgulama.net
 akkredikartiborcusorgulama.org
 faturaodeme.gen.tr
-behremend.com
 brekkegard.no
+behremend.com
 kargo-takip6.com
 gonderi-takip9.org
 mobilsubeyukle.com
@@ -659,9 +659,9 @@ onlineislem.org
 isbankasikredikartiborcusorgulama.com
 finasnbank.com
 finansbankasikredikartiborcsorgulama.com
-tlmerkez.com
-tlyuklemeci.com
 bkm-ekpress.com
+tlyuklemeci.com
+tlmerkez.com
 kredikartiborcogrenme.com
 yapikrediborcsorgulama.org
 yapikredl.com
@@ -683,10 +683,10 @@ clubavia.ru
 turkcell61.biz
 midin.ru
 qov.web.tr
+rent-sound.ru
 faturacik.org
 ladia-mitino.ru
 kvantureal.ru
-rent-sound.ru
 turkcell13.com
 darknet.gen.tr
 turkcell84.org
