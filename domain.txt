@@ -59,9 +59,9 @@ updatechecker.name
 ptthgsonline.com
 ziraatbankborcodeme.com
 bankakredikartlariborcsorgulama.com
-yonetmelisin.com
 bkmxexpress.com
 osym.online
+yonetmelisin.com
 ptt-takip.com
 olmeha.com
 onlinetrafikcezasiodemeleri.com
@@ -492,8 +492,8 @@ girisedevlet.com
 mobilsubemiz.com
 mobilsubeniz.com
 enerjelektclk.com
-bkmodemesayfasi.com
 guveliodemeler.com
+bkmodemesayfasi.com
 globalresearching.org
 shcserv.com
 assortmentba.bid
@@ -546,8 +546,8 @@ finans-enpara.com
 internetsube-enpara.com
 onlinesorgulamaislemleri.com
 servisfatura.com
-servisfatura.org
 sentry-title.com
+servisfatura.org
 kartsorgulaislemleri.com
 hgsyukleme.in
 aylikfatura.net
@@ -659,9 +659,9 @@ onlineislem.org
 isbankasikredikartiborcusorgulama.com
 finasnbank.com
 finansbankasikredikartiborcsorgulama.com
-tlmerkez.com
 bkm-ekpress.com
 tlyuklemeci.com
+tlmerkez.com
 kredikartiborcogrenme.com
 yapikrediborcsorgulama.org
 yapikredl.com
@@ -683,10 +683,10 @@ melotchi.ru
 qov.web.tr
 midin.ru
 turkcell61.biz
-ladia-mitino.ru
-rent-sound.ru
-faturacik.org
 kvantureal.ru
+faturacik.org
+rent-sound.ru
+ladia-mitino.ru
 turkcell13.com
 darknet.gen.tr
 turkcell84.org
