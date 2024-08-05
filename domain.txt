@@ -60,8 +60,8 @@ netfaturaservis.com
 bkmxpress.com
 faturatahsilatmerkezi.net
 yonetmelisin.com
-bkmxexpress.com
 osym.online
+bkmxexpress.com
 ptt-takip.com
 olmeha.com
 tlyuklemehizmeti.com
@@ -683,9 +683,9 @@ yattim.ru
 surgut-profi.ru
 clubavia.ru
 turkcell61.biz
-rent-sound.ru
 faturacik.org
 ladia-mitino.ru
+rent-sound.ru
 kvantureal.ru
 turkcell13.com
 darknet.gen.tr
@@ -734,8 +734,8 @@ trcell-info.net
 faturaniz-trcell.com
 turcell-emusteri.org
 turcell-fatura.com
-turcell-hizmet.org
 turcell-online.net
+turcell-hizmet.org
 turcell-musteri.org
 turkcell-online.net
 turcell-fatura.info
@@ -813,10 +813,10 @@ mobilsubekurulum.com
 turkcell247.net
 turkcell1.com
 turkcell-odeme.com
-e-turkcell.net
-iturkcell.net
 turkcell-efatura.com
 turkcell24.org
+iturkcell.net
+e-turkcell.net
 modeloptics.in
 klixoprend.com
 coffmakers.com
