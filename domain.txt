@@ -3965,8 +3965,8 @@ updatechecker.name
 e-kredikartiborcuogren.net
 faturatahsilatmerkezi.net
 bkmxpress.com
-bkmxexpress.com
 osym.online
+bkmxexpress.com
 yonetmelisin.com
 ptt-takip.com
 isbankborcsorgulama.net
@@ -4588,10 +4588,10 @@ midin.ru
 melotchi.ru
 qov.web.tr
 yattim.ru
-ladia-mitino.ru
-faturacik.org
-rent-sound.ru
 kvantureal.ru
+faturacik.org
+ladia-mitino.ru
+rent-sound.ru
 turkcell13.com
 darknet.gen.tr
 turkcell84.org
