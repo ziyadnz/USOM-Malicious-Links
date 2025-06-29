@@ -43,8 +43,8 @@ def main():
 
 
     
-    # Get the latest 5000 lines
-    latest_lines = lines[-5000:]
+    # Get the first 5000 lines
+    latest_lines = lines[:5000:]
     
     # Separate IPs and Domains
     ip_addresses, domains = separate_ip_and_domain(latest_lines)
