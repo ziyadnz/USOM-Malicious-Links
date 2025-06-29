@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add ipv4.txt domain.txt
+          git add ipv4.txt domain.txt domainforFW.txt
           git commit -m 'Update IPs and domains'
           git push
         env:
