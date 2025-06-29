@@ -1,4 +1,3 @@
-type=string
 durustaliseveisfirsati.online
 isube-password.store
 garant-kampanyalar.sa.com
