@@ -36,6 +36,11 @@ def write_to_files(ip_addresses, domains):
         for domain in domains:
             domain_file.write(domain.split('/')[0] + '\n')
 
+
+    with open('domainforFW.txt', 'w') as domain_file:
+        for domain in domains:
+            domain_file.write(domain.split('/')[0] + '\n')
+
 # Main function
 def main():
     content = fetch_url_content(url)
