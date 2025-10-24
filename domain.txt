@@ -1,4 +1,5 @@
 type=string
+ziraatguvenliislem.sbs
 500konut-bsrv.sbs
 isleminiyap.online
 500konut-bsrv.click
@@ -104,10 +105,10 @@ gratis.from-il.com
 limitogren.online
 finansmarket.online
 basvurmhs.cyou
-borsaexpert.online
+toppptalent.com
 yatirimstrat.online
 yatirimsinyal.online
-toppptalent.com
+borsaexpert.online
 kazancgundemi.online
 finansbilgi.online
 finansdanismani.pro
@@ -173,8 +174,8 @@ hemengirenler.com.tr
 hesaptasendealhemen.site
 ivandrix.com
 lomendra.com
-julvenis.com
 e-iade.com
+julvenis.com
 sanativeoasis.com
 miliarder.store
 sikayetinmerkezi-1.sbs
@@ -190,9 +191,9 @@ lymvenor.com
 soktahepindirim.cfd
 damlacicek.com.tr
 neopepe.lat
-ermolzek.com
-morvionis.com
 dornelith.net
+morvionis.com
+ermolzek.com
 fervalon.com
 terlisar.com
 qentroum.com
@@ -279,8 +280,8 @@ princess-mens.click
 princess-mens-club.com
 zoomconference.app
 bsnowcommunications.com
-lapas.live
 goodhillsenterprise.com
+lapas.live
 zoomconference.click
 kampaniasla.p-t-t-hediye-gibi-kampanya.cfd
 konutbasvuru.online
@@ -4739,4 +4740,3 @@ isbsanfksfafigdisdgihfsd.cyou
 axesbizim.click
 delidivaneindiirmlerfaanfistan.com.tr
 sosyaldunya.online
-kilometresorgusuyikilmaz.web.app
